@@ -1,0 +1,12 @@
+p
+{
+	color : rgb(200,13,46);
+	font-size: 2em;
+	font-weight: bold;
+}
+
+ul
+{
+	font-size: 1.2em;
+ 	border: 3px black dotted;
+}
