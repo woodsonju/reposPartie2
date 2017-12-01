@@ -1,12 +1,15 @@
 p
 {
 	color : rgb(200,13,46);
-	font-size: 2em;
+	font-size: 5em;
 	font-weight: bold;
 }
 
-ul
+li
 {
-	font-size: 1.2em;
+	font-size: 4em;
  	border: 3px black dotted;
+ 	width: 25%;
+ 	padding: 30px;
+ 	margin-left: 500px;
 }
